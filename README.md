@@ -2,7 +2,7 @@
 Here we'll be experimenting with the instagram API
 
 # First we install the dependencies needed for this
-/ sudo apt install python3-pip -y
+/ sudo apt install python3-pip -y <br>
 / pip install instagrapi 
 sudo apt install postgresql postgresql-contrib -y
 sudo systemctl start postgresql.service
