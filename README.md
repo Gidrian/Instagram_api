@@ -7,8 +7,6 @@ pip install instagrapi<br>
 sudo apt install postgresql postgresql-contrib -y<br>
 sudo systemctl start postgresql.service<br>
 sudo apt install postgresql-server-dev-XX -y #should be the same version<br>
-make<br>
-sudo make install<br>
 
 
 (not yet) pip install psycopg2<br>
