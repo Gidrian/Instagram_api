@@ -14,7 +14,7 @@ make<br>
 sudo make install<br>
 
 
-pip install psycopg2<br>
+(not yet) pip install psycopg2<br>
 
 
 
