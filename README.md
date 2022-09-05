@@ -7,9 +7,6 @@ pip install instagrapi<br>
 sudo apt install postgresql postgresql-contrib -y<br>
 sudo systemctl start postgresql.service<br>
 sudo apt install postgresql-server-dev-XX -y #should be the same version<br>
-sudo apt-get install -y liburiparser-dev<br>
-sudo apt-get install git -y<br>
-git clone https://github.com/petere/pguri.git<br>
 make<br>
 sudo make install<br>
 
